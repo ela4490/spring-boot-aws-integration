@@ -1,3 +1,3 @@
 # spring-boot-aws-integration
 
-https://github.com/swathisprasad/aws-spring-boot-integration-examples/tree/main
+AWS services and Spring Boot integration examples with Infrastructure-as-Code templates
